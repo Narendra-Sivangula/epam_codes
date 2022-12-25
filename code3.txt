@@ -1,0 +1,4 @@
+this is file3...
+text is added..
+3 lines..
+last line of the file
